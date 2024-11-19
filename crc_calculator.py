@@ -1,4 +1,4 @@
-# https://www.lammertbies.nl/comm/info/crc-calculation
+# Reference: https://www.lammertbies.nl/comm/info/crc-calculation
 from binascii import unhexlify
 import codecs
 from ctypes import c_ushort
